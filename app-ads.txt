@@ -1,0 +1,4 @@
+# app-ads.txt file for GPS Pinner App
+# Replace pub-XXXXXXXXXXXXXXXX with your actual AdMob Publisher ID
+
+google.com, pub-3032153553262537, DIRECT, f08c47fec0942fa0
